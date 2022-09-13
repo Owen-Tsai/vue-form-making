@@ -20,9 +20,9 @@
 
 [简体中文](./README.zh-CN.md) | English
 
-The FormMaking developed base on [vue](https://github.com/vuejs/vue) and [element-ui](https://github.com/ElemeFE/element), equipts with the latest front-end technology stack, built-in i18n internationalization solution, all of those are aimed at making developmemt simpler, and more efficiently.
+The FormMaking is developed base on [vue](https://github.com/vuejs/vue) and [element-ui](https://github.com/ElemeFE/element), integrated with the popular front-end technology stack and built-in i18n solution, to make your developmeet easier, smoother and more efficient.
 
-**This project is the base version, and if you need to experience the [Advanced](http://form.making.link), you can go to the advanced version, which provides more components and functionality, add support Vue3.**
+**This repository is the *base* version. You may also want to try out the [advanced version](http://form.making.link), which features more components, functionalities, and the support of Vue3.x.**
 
 ![](https://cdn.form.making.link/Jietu20200708-202415-HD.gif)
 
@@ -35,48 +35,35 @@ The FormMaking developed base on [vue](https://github.com/vuejs/vue) and [elemen
 
 ## Feature
 
-* Visual configuration page
-* Provide grid layout and align with flex
-* One-click preview of configuration effects
-* One-click generation of configuration json data
-* One-click generate code, ready to run
-* Provide custom components to meet user's custom requirements
-* Provides a remote data interface for users to asynchronously fetch data
-* Provides powerful advanced components
-* Support for form validation
-* Get form data quickly
-* Internationalization support
+* Visualized configuration page
+* Grid layout and flex-box based alignment
+* One-click preview
+* One-click json schema generation
+* One-click code generation, ready to run
+* Custom components to meet custom requirements
+* Asynchronously data fetching from remote endpoints
+* Powerful advanced components
+* Form validation
+* Blazing-fast speed
+* Built in internationalization support
 
 ## Advanced version
 
-The advanced version provides more functionality than the base version:
+The advanced version implemented more features than the base version:
 
-
-* More beautiful pages;
-
-* Add fields quickly by clicking;
-
-* More property Settings, including data source and form events;
-
-* More control fields (subforms, custom components, etc.);
-
-* More layout containers and can be nested with each other (grids, tables, tabs);
-
-* More apis for more complex business needs;
-
-* Add custom fields, you can quickly introduce your own components;
-
-* Can quickly add custom styles;
-
-* Support data source, convenient form data configuration;
-
-* Support action events, which can make forms more flexible configuration;
-
-* Multi-terminal adaptation display;
-
-* Provides Ant Design-style components (modified by the introduction of ANTD Vue);
-
-* Support Vue3;
+* More beautiful pages
+* Add fields quickly by clicking
+* More property settings, including data source and form events;
+* More widget fields (subforms, custom components, etc.);
+* More layout containers and nesting support (grids, tables, tabs);
+* Additonal APIs for complex business needs;
+* Custom fields for quickly introducing custom components;
+* Faster custom styles implement;
+* Introduce data source field for more convenient configurations;
+* Introduce action events for more flexible configurations;
+* Multi-terminal adaptation;
+* Ant Design components support (modified from ANTD Vue);
+* Vue3 support;
 
 ## Third-party plug-ins
 
